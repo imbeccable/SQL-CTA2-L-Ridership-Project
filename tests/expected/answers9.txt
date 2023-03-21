@@ -1,0 +1,98 @@
+General stats:
+  # of stations: 147
+  # of stops: 302
+  # of ride entries: 1,070,894
+  date range: 2001-01-01 - 2021-07-31
+  Total ridership: 3,377,404,512
+  Weekday ridership: 2,778,644,946 (82.27%)
+  Saturday ridership: 330,165,977 (9.78%)
+  Sunday/holiday ridership: 268,593,589 (7.95%)
+
+Please enter a command (1-9, x to exit): 
+Year to compare against? 
+Enter station 1 (wildcards _ and %): **No station found...
+
+Please enter a command (1-9, x to exit): 
+Year to compare against? 
+Enter station 1 (wildcards _ and %): 
+Enter station 2 (wildcards _ and %): Station 1: 41250 Central-Evanston
+2020-01-01 180
+2020-01-02 655
+2020-01-03 651
+2020-01-04 264
+2020-01-05 237
+2020-12-27 109
+2020-12-28 246
+2020-12-29 233
+2020-12-30 227
+2020-12-31 190
+Station 2: 41300 Loyola
+2020-01-01 1953
+2020-01-02 3292
+2020-01-03 3365
+2020-01-04 2533
+2020-01-05 1948
+2020-12-27 556
+2020-12-28 832
+2020-12-29 879
+2020-12-30 878
+2020-12-31 825
+
+Plot? (y/n) 
+Please enter a command (1-9, x to exit): ** top-10 stations **
+Lake/State : 100,419,088 (2.97%)
+Clark/Lake : 100,088,085 (2.96%)
+Chicago/State : 91,899,932 (2.72%)
+Belmont-North Main : 74,452,064 (2.20%)
+95th/Dan Ryan : 74,235,360 (2.20%)
+Fullerton : 72,888,906 (2.16%)
+Grand/State : 68,379,115 (2.02%)
+O'Hare Airport : 66,363,838 (1.96%)
+Jackson/State : 61,803,911 (1.83%)
+Roosevelt : 61,487,262 (1.82%)
+
+Please enter a command (1-9, x to exit): 
+Year to compare against? 
+Enter station 1 (wildcards _ and %): 
+Enter station 2 (wildcards _ and %): **No station found...
+
+Please enter a command (1-9, x to exit): 
+Year to compare against? 
+Enter station 1 (wildcards _ and %): 
+Enter station 2 (wildcards _ and %): Station 1: 40470 Racine
+2001-01-01 286
+2001-01-02 1142
+2001-01-03 1388
+2001-01-04 1574
+2001-01-05 1510
+2001-12-27 1016
+2001-12-28 1199
+2001-12-29 555
+2001-12-30 408
+2001-12-31 815
+Station 2: 40120 35th/Archer
+2001-01-01 318
+2001-01-02 1654
+2001-01-03 1777
+2001-01-04 1878
+2001-01-05 1825
+2001-12-27 1695
+2001-12-28 1709
+2001-12-29 610
+2001-12-30 370
+2001-12-31 1174
+
+Plot? (y/n) 
+Please enter a command (1-9, x to exit): ** least-10 stations **
+Homan : 27 (0.00%)
+Oakton-Skokie : 2,188,410 (0.06%)
+Kostner : 2,471,822 (0.07%)
+Cermak-McCormick Place : 2,721,448 (0.08%)
+King Drive : 3,931,290 (0.12%)
+Noyes : 4,488,208 (0.13%)
+South Boulevard : 4,691,607 (0.14%)
+Halsted/63rd : 4,707,290 (0.14%)
+Foster : 4,772,450 (0.14%)
+Indiana : 4,942,648 (0.15%)
+
+Please enter a command (1-9, x to exit):

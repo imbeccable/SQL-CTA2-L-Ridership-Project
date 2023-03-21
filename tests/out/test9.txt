@@ -1,0 +1,14 @@
+** Welcome to CTA L analysis app **
+
+General stats:
+  # of stations: 147
+  # of stops: 302
+  # of ride entries: 1,070,894
+  date range: 2001-01-01 - 2021-07-31
+  Total ridership: 3,377,404,512
+  Weekday ridership: 2,778,644,946 (82.27%)
+  Saturday ridership: 330,165,977 (9.78%)
+  Sunday/holiday ridership: 268,593,589 (7.95%)
+
+Please enter a command (1-9, x to exit): 
+Year to compare against? Enter station 1 (wildcards _ and %): Enter station 2 (wildcards _ and %): Station 1:   

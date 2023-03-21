@@ -1,0 +1,89 @@
+General stats:
+  # of stations: 147
+  # of stops: 302
+  # of ride entries: 1,070,894
+  date range: 2001-01-01 - 2021-07-31
+  Total ridership: 3,377,404,512
+  Weekday ridership: 2,778,644,946 (82.27%)
+  Saturday ridership: 330,165,977 (9.78%)
+  Sunday/holiday ridership: 268,593,589 (7.95%)
+
+Please enter a command (1-9, x to exit): 
+Enter a line color (e.g. Red or Yellow): 47th-Dan Ryan : (41.810318, -87.63094)
+63rd-Dan Ryan : (41.780536, -87.630952)
+69th : (41.768367, -87.625724)
+79th : (41.750419, -87.625112)
+87th : (41.735372, -87.624717)
+95th/Dan Ryan : (41.722377, -87.624342)
+Addison-North Main : (41.947428, -87.653626)
+Argyle : (41.973453, -87.65853)
+Belmont-North Main : (41.939751, -87.65338)
+Berwyn : (41.977984, -87.658668)
+Bryn Mawr : (41.983504, -87.65884)
+Cermak-Chinatown : (41.853206, -87.630968)
+Chicago/State : (41.896671, -87.628176)
+Clark/Division : (41.90392, -87.631412)
+Fullerton : (41.925051, -87.652866)
+Garfield-Dan Ryan : (41.79542, -87.631157)
+Grand/State : (41.891665, -87.628021)
+Granville : (41.993664, -87.659202)
+Harrison : (41.874039, -87.627479)
+Howard : (42.019063, -87.672892)
+Jackson/State : (41.878153, -87.627596)
+Jarvis : (42.015876, -87.669092)
+Lake/State : (41.884809, -87.627813)
+Lawrence : (41.969139, -87.658493)
+Loyola : (42.001073, -87.661061)
+Monroe/State : (41.880745, -87.627696)
+Morse : (42.008362, -87.665909)
+North/Clybourn : (41.910655, -87.649177)
+Roosevelt : (41.867368, -87.627402)
+Sheridan : (41.953775, -87.654929)
+Sox-35th-Dan Ryan : (41.831191, -87.630636)
+Thorndale : (41.990259, -87.659076)
+Wilson : (41.964273, -87.657588)
+
+Plot? (y/n) 
+Please enter a command (1-9, x to exit): 
+Enter a line color (e.g. Red or Yellow): **No such line...
+
+Please enter a command (1-9, x to exit): 
+Enter a line color (e.g. Red or Yellow): Dempster-Skokie : (42.038951, -87.751919)
+Howard : (42.019063, -87.672892)
+Oakton-Skokie : (42.02624348, -87.74722084)
+
+Plot? (y/n) 
+Please enter a command (1-9, x to exit): ** ridership by month **
+01 : 267,762,005
+02 : 261,119,280
+03 : 286,169,400
+04 : 276,946,650
+05 : 285,049,263
+06 : 290,602,705
+07 : 296,482,279
+08 : 291,240,598
+09 : 292,374,159
+10 : 310,014,434
+11 : 271,381,428
+12 : 248,262,311
+
+Plot? (y/n) 
+Please enter a command (1-9, x to exit): 
+Enter a line color (e.g. Red or Yellow): Central-Evanston : (42.063987, -87.685617)
+Davis : (42.04771, -87.683543)
+Dempster : (42.041655, -87.681602)
+Foster : (42.05416, -87.68356)
+Howard : (42.019063, -87.672892)
+Linden : (42.073153, -87.69073)
+Main : (42.033456, -87.679538)
+Noyes : (42.058282, -87.683337)
+South Boulevard : (42.027612, -87.678329)
+
+Plot? (y/n) 
+Please enter a command (1-9, x to exit): 
+Enter partial station name (wildcards _ and %): 40170 : Ashland-Lake
+
+Please enter a command (1-9, x to exit): 
+Enter a line color (e.g. Red or Yellow): **No such line...
+
+Please enter a command (1-9, x to exit):

@@ -1,0 +1,63 @@
+** Welcome to CTA L analysis app **
+
+General stats:
+  # of stations: 147
+  # of stops: 302
+  # of ride entries: 1,070,894
+  date range: 2001-01-01 - 2021-07-31
+  Total ridership: 3,377,404,512
+  Weekday ridership: 2,778,644,946 (82.27%)
+  Saturday ridership: 330,165,977 (9.78%)
+  Sunday/holiday ridership: 268,593,589 (7.95%)
+
+Please enter a command (1-9, x to exit): ** top-10 stations **
+Lake/State : 100,419,088 (2.97%)
+Clark/Lake : 100,088,085 (2.96%)
+Chicago/State : 91,899,932 (2.72%)
+Belmont-North Main : 74,452,064 (2.20%)
+95th/Dan Ryan : 74,235,360 (2.20%)
+Fullerton : 72,888,906 (2.16%)
+Grand/State : 68,379,115 (2.02%)
+O'Hare Airport : 66,363,838 (1.96%)
+Jackson/State : 61,803,911 (1.83%)
+Roosevelt : 61,487,262 (1.82%)
+
+Please enter a command (1-9, x to exit): ** least-10 stations **
+Homan : 27 (0.00%)
+Oakton-Skokie : 2,188,410 (0.06%)
+Kostner : 2,471,822 (0.07%)
+Cermak-McCormick Place : 2,721,448 (0.08%)
+King Drive : 3,931,290 (0.12%)
+Noyes : 4,488,208 (0.13%)
+South Boulevard : 4,691,607 (0.14%)
+Halsted/63rd : 4,707,290 (0.14%)
+Foster : 4,772,450 (0.14%)
+Indiana : 4,942,648 (0.15%)
+
+Please enter a command (1-9, x to exit): **Error, unknown command, try again...
+
+Please enter a command (1-9, x to exit): ** least-10 stations **
+Homan : 27 (0.00%)
+Oakton-Skokie : 2,188,410 (0.06%)
+Kostner : 2,471,822 (0.07%)
+Cermak-McCormick Place : 2,721,448 (0.08%)
+King Drive : 3,931,290 (0.12%)
+Noyes : 4,488,208 (0.13%)
+South Boulevard : 4,691,607 (0.14%)
+Halsted/63rd : 4,707,290 (0.14%)
+Foster : 4,772,450 (0.14%)
+Indiana : 4,942,648 (0.15%)
+
+Please enter a command (1-9, x to exit): ** top-10 stations **
+Lake/State : 100,419,088 (2.97%)
+Clark/Lake : 100,088,085 (2.96%)
+Chicago/State : 91,899,932 (2.72%)
+Belmont-North Main : 74,452,064 (2.20%)
+95th/Dan Ryan : 74,235,360 (2.20%)
+Fullerton : 72,888,906 (2.16%)
+Grand/State : 68,379,115 (2.02%)
+O'Hare Airport : 66,363,838 (1.96%)
+Jackson/State : 61,803,911 (1.83%)
+Roosevelt : 61,487,262 (1.82%)
+
+Please enter a command (1-9, x to exit): 
